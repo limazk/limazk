@@ -32,7 +32,7 @@ currently_building:
   - Web Experiments
 
 environment:
-  os: Linux
+  os: Kalli Linux + Linux Mint + windows
   editor: VS Code
   version_control: Git + GitHub
 ```
